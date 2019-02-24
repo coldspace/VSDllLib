@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dlltest", "dlltest\dlltest.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dllapp", "dllapp\dllapp.vcxproj", "{A8F15C3B-377C-4CF3-95DB-C3975A2AE165}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libapp", "libapp\libapp.vcxproj", "{22930FAF-6001-4D59-B75D-5A64F9FC2150}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +29,10 @@ Global
 		{A8F15C3B-377C-4CF3-95DB-C3975A2AE165}.Debug|Win32.Build.0 = Debug|Win32
 		{A8F15C3B-377C-4CF3-95DB-C3975A2AE165}.Release|Win32.ActiveCfg = Release|Win32
 		{A8F15C3B-377C-4CF3-95DB-C3975A2AE165}.Release|Win32.Build.0 = Release|Win32
+		{22930FAF-6001-4D59-B75D-5A64F9FC2150}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22930FAF-6001-4D59-B75D-5A64F9FC2150}.Debug|Win32.Build.0 = Debug|Win32
+		{22930FAF-6001-4D59-B75D-5A64F9FC2150}.Release|Win32.ActiveCfg = Release|Win32
+		{22930FAF-6001-4D59-B75D-5A64F9FC2150}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
